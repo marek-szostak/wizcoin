@@ -15,7 +15,7 @@ To install with pip on Windows, run:
 
 ## Quickstart Guide
 
-Here's some example code demonstrating ho wthis module is used:
+Here is some example code demonstrating ho wthis module is used:
 
     >>> import wizcoin
     >>> coin = wizcoin.WizCoin(2, 5, 10)
